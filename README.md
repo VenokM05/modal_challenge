@@ -1,4 +1,3 @@
-# modal_challenge
 # Coding Challenge - Modal
 
 ## Goal
